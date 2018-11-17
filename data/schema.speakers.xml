@@ -1,0 +1,14 @@
+<conference name="" start-date="" end-date="">
+    <speakers>
+        <speaker>
+            <name></name>
+            <title></title>
+            <bio></bio>
+            <photo></photo>
+            <twitter></twitter>
+            <linkedin></linkedin>
+            <github></github>
+            <blog></blog>
+        </speaker>
+    </speakers>
+</conference>

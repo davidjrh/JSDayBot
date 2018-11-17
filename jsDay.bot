@@ -1,0 +1,59 @@
+{
+    "name": "jsDay",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "http://localhost:3978/api/messages",
+            "name": "development"
+        },
+        {
+            "type": "endpoint",
+            "appId": "<Production MS App ID>",
+            "appPassword": "<Production MS App Password>",
+            "endpoint": "https://<appname>.azurewebsites.net/api/messages",
+            "id": "https://<appname>.azurewebsites.net/api/messages",
+            "name": "production"
+        },        
+        {
+            "type": "luis",
+            "appId": "<LUIS appId>",
+            "authoringKey": "<Luis Authoring Key>",
+            "name": "jsDay-LUIS",
+            "subscriptionKey": "<LUIS subscription Key>",
+            "version": "0.1",
+            "region": "northeurope",
+            "id": "220"
+        },
+        {
+            "type": "blobStorage",
+            "name": "jsDay-STORAGE-development",
+            "id": "jsDay-STORAGE-development",
+            "connectionString": "DefaultEndpointsProtocol=http;AccountName=devstoreaccount1;AccountKey=Eby8vdM02xNOcqFlqUwJPLlmEtlCDXJ1OUzFT50uSRZ6IFsuFq2UVErCz4I6tq/K1SZFPTOtr/KBHBeksoGMGw==;BlobEndpoint=http://127.0.0.1:10000/devstoreaccount1;TableEndpoint=http://127.0.0.1:10002/devstoreaccount1;QueueEndpoint=http://127.0.0.1:10001/devstoreaccount1;",
+            "container": "botstate"
+        },
+        {
+            "type": "blobStorage",
+            "name": "jsDay-STORAGE-production",
+            "id": "jsDay-STORAGE-production",
+            "connectionString": "DefaultEndpointsProtocol=https;AccountName=<Production Account Name>;AccountKey=<Production Account Key>;EndpointSuffix=core.windows.net",
+            "container": "botstate"
+        },        
+        {
+            "type": "qna",
+            "endpointKey": "<QnA Endpoint Key>",
+            "kbId": "<QnA Knowledge Base ID>",
+            "hostname": "https://<QnA App name>.azurewebsites.net",
+            "name": "jsDay-QNA",
+            "id": "91"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "path": "C:\\Dev\\jsDayBot\\jsDay.bot",
+    "overrides": null,
+    "secretKey": ""
+}

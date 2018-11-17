@@ -1,0 +1,617 @@
+<conference start-date="2018-11-10" end-date="2018-11-11">
+    <day date="2018-11-10">
+        <event type="" start-time="8:00AM" end-time="8:30AM">
+            <title>Recepción y acreditación</title>
+            <location>Universidad de La Laguna - Facultad de Ciencias - Secciones de Física y Matemáticas</location>
+            <speakers></speakers>
+            <keywords></keywords>
+            <page>https://jsdaycanarias.com/</page>
+            <photos></photos>
+        </event>
+        <event type="" start-time="08:30AM" end-time="09:00AM">
+            <title>Apertura - Keynote</title>
+            <location>Aula Magna</location>
+            <speakers></speakers>
+            <keywords></keywords>
+            <page>#</page>
+            <photos></photos>
+        </event>
+        <event type="Talk" start-time="09:00AM" end-time="10:00AM">
+            <title>Realidad virtual con React y ViroReact</title>
+            <location>Aula Magna</location>
+            <speakers>Iván Bacallado</speakers>
+            <description>Desarrollar aplicaciones basadas en Realidad Virtual o Realidad Aumentada nunca ha sido tan sencillo con Viro y React Native. Veremos las diferencias entre AR y VR, cómo crear un proyecto desde cero, repasaremos los componentes básicos, cómo utilizarlos y por último, veremos las aplicaciones en el mundo real de la AR y VR.</description>
+            <keywords>Web, animación</keywords>
+            <level>Avanzado</level>
+            <trackname>Track 1</trackname>
+            <page>#</page>
+            <photos>
+                <photo type="speaker">https://jsday.blob.core.windows.net/images/ivan-bacallado.png</photo>
+            </photos>
+        </event>
+        <event type="Talk" start-time="09:00AM" end-time="10:00AM">
+            <title>Mira lo que ha hecho ... Git</title>
+            <location>Aula 12</location>
+            <speakers>Yodra Lopez</speakers>
+            <description>Seguro que más de una vez has oído o incluso has dicho tu mismo 'Mira lo que hizo GIT', o algo como 'GIT se volvió loco', 'GIT lo mergeó mal!'. En el fondo sabes que no es GIT quien lo hizo mal. Vamos a ver los típicos errores que se cometen y algunos no tan típicos, por desconocimiento del uso de GIT, confusión con otros VCS; pero además, veremos algunas reglas/trucos a tener en cuenta para evitarlo.</description>
+            <keywords>Git</keywords>
+            <level>Básico</level>
+            <trackname>Track 2</trackname>            
+            <page>#</page>
+            <photos>
+                <photo type="speaker">https://jsday.blob.core.windows.net/images/yodra-lopez.png</photo>
+            </photos>
+        </event>   
+        <event type="Workshop" start-time="09:00AM" end-time="10:00AM">
+            <title>Tu app movil nativa con NativeScript y Angular</title>
+            <location>Aula 13</location>
+            <speakers>Sema García</speakers>
+            <description>Introducción al desarrollo de apps para dispositivos móviles (Android e iOS) utilizando el framework NativeScript. NS está basado en tecnologías web(JavaScript / TypeScript), que junto a la plataforma Angular, nos permitirá crear aplicaciones nativas.</description>
+            <keywords>NativeScript,Angular,Android,iOS,TypeScript</keywords>
+            <level>Básico</level>
+            <trackname>Track 3</trackname>            
+            <page>#</page>
+            <photos>
+                <photo type="speaker">https://jsday.blob.core.windows.net/images/sema-garcia.png</photo>
+            </photos>
+        </event>      
+        <event type="Talk" start-time="10:00AM" end-time="11:00AM">
+            <title>useReact() - Una introducción a Hooks</title>
+            <location>Aula Magna</location>
+            <speakers>Axel Hernández</speakers>
+            <description>Recientemente el equipo de React anunció Hooks, una funcionalidad que nos va a permitir compartir lógica en nuestros componentes y que cambiará la forma en la que escribimos nuestros componentes.</description>
+            <keywords>React,Front-End</keywords>
+            <level>Avanzado</level>
+            <trackname>Track 1</trackname>            
+            <page>#</page>
+            <photos>
+                <photo type="speaker">https://jsday.blob.core.windows.net/images/axel-hernandez.png</photo>
+            </photos>
+        </event>      
+        <event type="Talk" start-time="10:00AM" end-time="11:00AM">
+            <title>De API REST a GraphQL en 45 minutos</title>
+            <location>Aula 12</location>
+            <speakers>Dailos Díaz</speakers>
+            <description>Partiendo de una API REST genérica, analizaremos qué aporta de nuevo GraphQL, cómo podemos integrarlo con nuestros proyectos actuales y los puntos clave para empezar a entender esta nueva herramienta, que está llamada a cambiar la manera con la que nuestras aplicaciones cliente intercambiarán datos con los servidores.</description>
+            <keywords>GraphQL,Api</keywords>
+            <level>Intermedio</level>
+            <trackname>Track 2</trackname>            
+            <page>#</page>
+            <photos>
+                <photo type="speaker">https://jsday.blob.core.windows.net/images/dailos-diaz.png</photo>
+            </photos>
+        </event> 
+        <event type="Workshop" start-time="10:00AM" end-time="11:00AM">
+            <title>Tu app movil nativa con NativeScript y Angular</title>
+            <location>Aula 13</location>
+            <speakers>Sema García</speakers>
+            <description>Continuación del taller. Seguiremos construyendo nuestra aplicación con NativeScript de la mano de Sema.</description>
+            <keywords>NativeScript,Angular</keywords>
+            <level>Básico</level>
+            <trackname>Track 3</trackname>            
+            <page>#</page>
+            <photos>
+                <photo type="speaker">https://jsday.blob.core.windows.net/images/sema-garcia.png</photo>
+            </photos>
+        </event>  
+        <event type="" start-time="11:00AM" end-time="11:30AM">
+            <title>Coffee break</title>
+            <location></location>
+            <speakers></speakers>
+            <keywords></keywords>
+            <page>#</page>
+            <photos></photos>
+        </event>           
+         <event type="Talk" start-time="11:30AM" end-time="12:30PM">
+            <title>Bootstrapping Project: What I Learned</title>
+            <location>Aula Magna</location>
+            <speakers>Francisco Verdú (Kikobeats)</speakers>
+            <description>Un repaso a todo lo que he aprendido construyendo productos digitales en proyectos tanto Open Source como para empresas, pasando de ser un hacker indie en mi habitacion a trabajar en una de las compañías mas legendarias del mundo.</description>
+            <keywords>bootstrap,css</keywords>
+            <level>Intermedio</level>
+            <trackname>Track 1</trackname>
+            <page>#</page>
+            <photos>
+                <photo type="speaker">https://jsday.blob.core.windows.net/images/kikobeats.png</photo>
+            </photos>
+        </event>  
+        
+        <event type="Talk" start-time="11:30AM" end-time="12:30PM">
+            <title>Big Fails Theory</title>
+            <location>Aula 12</location>
+            <speakers>Marta Fonda</speakers>
+            <description>Elegir una arquitectura o un stack determinado no es nada fácil. ¿Qué variables deberíamos tener en cuenta para tomar estas decisiones? ¿Es posible evitar los errores? Lo descubriremos en esta charla.</description>
+            <keywords>Javascript</keywords>
+            <level>Básico</level>
+            <trackname>Track 2</trackname>            
+            <page>#</page>
+            <photos>
+                <photo type="speaker">https://jsday.blob.core.windows.net/images/marta-fonda.png</photo>
+            </photos>
+        </event>      
+        <event type="Workshop" start-time="11:30AM" end-time="12:30PM">
+            <title>Star workshop: CSS Clone Wars</title>
+            <location>Aula 13</location>
+            <speakers>José Román (Manz)</speakers>
+            <description>En este taller, el objetivo será plantear varias ideas y ejemplos visuales que habrá que "clonar", intentando replicarlo utilizando CSS y JS. Posteriormente, iremos revisando los detalles. De esta forma se mencionarán varias estrategias de CSS (flex, grid, animaciones, transformaciones...), tecnologías, herramientas y librerías. Para poder aprovechar este taller, será necesario tener conocimientos básicos en HTML/CSS.</description>
+            <keywords>Javascript,css,html</keywords>
+            <level>Básico</level>
+            <trackname>Track 3</trackname>            
+            <page>#</page>
+            <photos>
+                <photo type="speaker">https://jsday.blob.core.windows.net/images/manz.png</photo>
+            </photos>
+        </event>             
+        <event type="Talk" start-time="12:30PM" end-time="13:30PM">
+            <title>Arquitectura para juegos en HTML5 con Phaser</title>
+            <location>Aula Magna</location>
+            <speakers>Luis Antón</speakers>
+            <description>¿Te interesa desarrollar videojuegos con tecnologías web? En esta charla Luis nos explicará como construirlos utilizando una arquitectura flexible</description>
+            <keywords>html5,html,juegos,gaming,phaser</keywords>
+            <level>Intermedio</level>
+            <trackname>Track 1</trackname>            
+            <page>#</page>
+            <photos>
+                <photo type="speaker">https://jsday.blob.core.windows.net/images/luis-anton.png</photo>
+            </photos>
+        </event>         
+        <event type="Talk" start-time="12:30PM" end-time="13:30PM">
+            <title>Cómo casarse en el blockchain de Ethereum</title>
+            <location>Aula 12</location>
+            <speakers>Alberto Ruiz</speakers>
+            <description>Charla con live demo en la que Alberto explicará como crear una app en React que nos permita registrar un matrimonio en Ethereum.</description>
+            <keywords>blockchain,ethereum</keywords>
+            <level>Intermedio</level>
+            <trackname>Track 2</trackname>            
+            <page>#</page>
+            <photos>
+                <photo type="speaker">https://jsday.blob.core.windows.net/images/alberto-ruiz.png</photo>
+            </photos>
+        </event> 
+        <event type="Workshop" start-time="12:30PM" end-time="13:30PM">
+            <title>Star workshop: CSS Clone Wars</title>
+            <location>Aula 13</location>
+            <speakers>José Román (Manz)</speakers>
+            <description>Continuación del taller. Seguiremos resolviendo retos con CSS junto a Manz.</description>
+            <keywords>css,html5,html,javascript</keywords>
+            <level>Básico</level>
+            <trackname>Track 3</trackname>            
+            <page>#</page>
+            <photos>
+                <photo type="speaker">https://jsday.blob.core.windows.net/images/manz.png</photo>
+            </photos>
+        </event>     
+        <event type="" start-time="13:30PM" end-time="14:30PM">
+            <title>Almuerzo</title>
+            <location></location>
+            <speakers></speakers>
+            <keywords></keywords>
+            <page>#</page>
+            <photos></photos>
+        </event>   
+        <event type="Talk" start-time="14:30PM" end-time="15:30PM">
+            <title>Prisma: un ORM para GraphQL</title>
+            <location>Aula Magna</location>
+            <speakers>Dailos Díaz</speakers>
+            <description>Descubriremos a Prisma, un ORM open source para GraphQL y veremos como el implementarlo en nuestra API nos provee de una serie de beneficios en cuanto a rendimiento y simplicidad a la hora de trabajar con la base de datos, así como funcionalidades real time.</description>
+            <keywords>GraphQL,orm</keywords>
+            <level>Avanzado</level>
+            <trackname>Track 1</trackname>            
+            <page>#</page>
+            <photos>
+                <photo type="speaker">https://jsday.blob.core.windows.net/images/dailos-diaz.png</photo>
+            </photos>
+        </event>   
+        <event type="Talk" start-time="14:30PM" end-time="15:30PM">
+            <title>Entendamos en qué consiste eso de la reactividad</title>
+            <location>Aula 12</location>
+            <speakers>Sema García</speakers>
+            <description>Se está hablando mucho de la reactividad, está ahí fuera y existe en muchos lenguajes, pero... ¿la conoces? ¿es todavía un misterio para tí? ¿Crees que eso no va con tu app? Hablaremos sobre ella de una manera distinta a como lo suelen hacer los miles de tutoriales que puedes encontrar en Internet, para aprender el concepto y su fundamento, particularizando en JavaScript mediante la famosa librería RxJS.</description>
+            <keywords>reactjs,javascript</keywords>
+            <level>Básico</level>
+            <trackname>Track 2</trackname>            
+            <page>#</page>
+            <photos>
+                <photo type="speaker">https://jsday.blob.core.windows.net/images/sema-garcia.png</photo>
+            </photos>
+        </event>  
+        <event type="Workshop" start-time="14:30PM" end-time="15:30PM">
+            <title>NgRX: A Reactive State for Angular</title>
+            <location>Aula 13</location>
+            <speakers>Adrián Ferrera</speakers>
+            <description>Introducción a ngrx para Angular, librería que nos provee de herramientas para gestionar el estado de tu aplicación Angular para sacar el mayor rendimiento utilizando buenas prácticas</description>
+            <keywords>angular,javascript</keywords>
+            <level>Básico</level>
+            <trackname>Track 3</trackname>            
+            <page>#</page>
+            <photos>
+                <photo type="speaker">https://jsday.blob.core.windows.net/images/adrian-ferrera.png</photo>
+            </photos>
+        </event>   
+        <event type="Talk" start-time="15:30PM" end-time="16:30PM">
+            <title>AssistantJS: Háblale a tu web</title>
+            <location>Aula Magna</location>
+            <speakers>Jon Rojí</speakers>
+            <description>Las interfaces de voz cada día están más de moda, ya que suponen una revolución en la forma de interactuar con la tecnología. Es momento de aplicar estas técnicas utilizando las herramientas que nos ofrecen los navegadores para la web. Hablaremos de técnicas y modelos para diseñar un asistente de voz adecuado a cada proyecto, y veremos como desarrollarlo utilizando únicamente APIS nativas de HTML y Javascript, y algunos servicios externos para hacer que nuestro asistente reaccione como queramos a nuestras peticiones.</description>
+            <keywords>AssistantJS,bots</keywords>
+            <level>Intermedio</level>
+            <trackname>Track 1</trackname>            
+            <page>#</page>
+            <photos>
+                <photo type="speaker">https://jsday.blob.core.windows.net/images/jon-roji.png</photo>
+            </photos>
+        </event>   
+        <event type="Talk" start-time="15:30PM" end-time="16:30PM">
+            <title>El poder de la accesibilidad</title>
+            <location>Aula 12</location>
+            <speakers>Raquel Moreno</speakers>
+            <description>Si no somos conscientes de la accesibilidad en el desarrollo software, podemos introducir barreras en el mundo tecnológico, tal y como existen en el mundo real. Además, la accesibilidad en nuestra profesión no sólo está relacionada con las personas con discapacidades, sino que va mucho más allá. En esta charla os contaré mis pequeñas experiencias sobre accesibilidad y veremos algunos ejemplos prácticos, recomendaciones y herramientas.</description>
+            <keywords>accesibilidad,css</keywords>
+            <level>Básico</level>
+            <trackname>Track 2</trackname>            
+            <page>#</page>
+            <photos>
+                <photo type="speaker">https://jsday.blob.core.windows.net/images/raquel-moreno.png</photo>
+            </photos>
+        </event>                                                                                             
+        <event type="Workshop" start-time="15:30PM" end-time="16:30PM">
+            <title>NgRX: A Reactive State for Angular</title>
+            <location>Aula 13</location>
+            <speakers>Adrián Ferrera</speakers>
+            <description>Continuación del taller. Seguiremos implementando Ngrx en nuestra aplicación Angular guiados por Adrián</description>
+            <keywords>angular,javascript</keywords>
+            <level>Básico</level>
+            <trackname>Track 3</trackname>            
+            <page>#</page>
+            <photos>
+                <photo type="speaker">https://jsday.blob.core.windows.net/images/adrian-ferrera.png</photo>
+            </photos>
+        </event>          
+        <event type="" start-time="16:30PM" end-time="17:00PM">
+            <title>Coffee Break</title>
+            <location></location>
+            <speakers></speakers>
+            <keywords></keywords>
+            <page>#</page>
+            <photos></photos>
+        </event>     
+        <event type="Talk" start-time="17:00PM" end-time="18:00PM">
+            <title>Devops: la proteína del crecimiento</title>
+            <location>Aula Magna</location>
+            <speakers>Ayoze Marcelino</speakers>
+            <description>El despliegue y mantenimiento de una infraestructura la cual soporta una gran cantidad de usuarios debe de estar lo más optmizado posible. En esta charla conocerás las herramientas que te permitiran escalar, desplgar y mantener tus aplicaciones para que siempre estén disponbiles</description>
+            <keywords>devops</keywords>
+            <level>Intermedio</level>
+            <trackname>Track 1</trackname>            
+            <page>#</page>
+            <photos>
+                <photo type="speaker">https://jsday.blob.core.windows.net/images/ayoze-marcelino.png</photo>
+            </photos>
+        </event>     
+        <event type="Talk" start-time="17:00PM" end-time="18:00PM">
+            <title>Simplicidad y principios del diseño de software</title>
+            <location>Aula 12</location>
+            <speakers>Carlos Blé</speakers>
+            <description>Nos dijeron que el objetivo era hacer código reutilizable para no tener que cambiarlo, pero esa idea es obsoleta. En realidad, se trata de hacer código entendible, fácil de cambiar. ¿Qué principios de diseño podemos utilizar, especialmente en un mundo tan cambiante y complejo como el del ecosistema JavaScript? ¿Por qué cuesta tanto entender y mantener aplicaciones escritas con los frameworks y librerías habituales?</description>
+            <keywords>javascript</keywords>
+            <level>Básico</level>
+            <trackname>Track 2</trackname>            
+            <page>#</page>
+            <photos>
+                <photo type="speaker">https://jsday.blob.core.windows.net/images/carlos-ble.png</photo>
+            </photos>
+        </event>     
+        <event type="Workshop" start-time="17:00PM" end-time="18:00PM">
+            <title>React con Styled Components, System y Storybook</title>
+            <location>Aula 13</location>
+            <speakers>José Manuel Lucas</speakers>
+            <description>Abordaremos la construcción de un sistema de diseño tomando como base Styled Components y Styled System para los componentes y Storybook para mostrarlos.</description>
+            <keywords>reactjs,react</keywords>
+            <level>Básico</level>
+            <trackname>Track 3</trackname>            
+            <page>#</page>
+            <photos>
+                <photo type="speaker">https://jsday.blob.core.windows.net/images/jose-manuel-lucas.png</photo>
+            </photos>
+        </event>  
+        <event type="Talk" start-time="18:00PM" end-time="19:00PM">
+            <title>Data visualization tools [ Inglés ]</title>
+            <location>Aula Magna</location>
+            <speakers>Steve Purves</speakers>
+            <description>Data Visualisation in python is fast and supported by some great toolsets. That is one of the reasons why data scientists love python. In JS things are harder, we have to work more to create interactive custom visuals. The demands for better and better data visualisation especially in apps for analytics, sciences are increasing. d3.js is often the reference go to tool, powerful and well supported but with a non trival learning curve. In this talk, I'll introduce some newer data visualisation libraries that are themselves are very powerful but more accessible, and show how to get started with these in your projects.</description>
+            <keywords>data,visualization,tools,d3</keywords>
+            <level>Intermedio</level>
+            <trackname>Track 1</trackname>            
+            <page>#</page>
+            <photos>
+                <photo type="speaker">https://jsday.blob.core.windows.net/images/steve-purves.png</photo>
+            </photos>
+        </event>     
+        <event type="Talk" start-time="18:00PM" end-time="19:00PM">
+            <title>2001KB: Odisea de despacio</title>
+            <location>Aula 12</location>
+            <speakers>Jose Román (Manz)</speakers>
+            <description>Muchas veces, al construir una web nos preocupamos del diseño, de la funcionalidad y nos olvidamos de la optimización. Es muy importante encontrar un buen equilibrio entre diferentes factores que afectarán a la velocidad de carga o la experiencia de usuario. En esta charla daremos un repaso a detalles de optimización en una web y que herramientas, tecnologías o posibilidades hay detrás.</description>
+            <keywords>diseño,tools,optimización</keywords>
+            <level>Intermedio</level>
+            <trackname>Track 2</trackname>            
+            <page>#</page>
+            <photos>
+                <photo type="speaker">https://jsday.blob.core.windows.net/images/manz.png</photo>
+            </photos>
+        </event>        
+        <event type="Workshop" start-time="18:00PM" end-time="19:00PM">
+            <title>React con Styled Components, System y Storybook</title>
+            <location>Aula 13</location>
+            <speakers>José Manuel Lucas</speakers>
+            <description>Continuación del taller. Terminaremos de desarrollar nuestro ecosistema junto a José Manuel.</description>
+            <keywords>reactjs,react</keywords>
+            <level>Básico</level>
+            <trackname>Track 3</trackname>            
+            <page>#</page>
+            <photos>
+                <photo type="speaker">https://jsday.blob.core.windows.net/images/jose-manuel-lucas.png</photo>
+            </photos>
+        </event>                                     
+    </day>
+    <day date="2018-11-11">
+        <event type="Talk" start-time="09:00AM" end-time="10:00AM">
+            <title>Tu aplicación NodeJS en su contenedor</title>
+            <location>Aula Magna</location>
+            <speakers>Laura Morillo</speakers>
+            <description>Aprenderemos como dockerizar nuestras aplicaciones NodeJS, creando una arquitectura y comunicando distintos contenedores. Descubriremos los beneficios y seguro que despues de esta charla, tus aplicaciónes Node siempre irán en su contenedor</description>
+            <keywords>nodejs,contenedores</keywords>
+            <level>Avanzado</level>
+            <trackname>Track 1</trackname>
+            <page>#</page>
+            <photos>
+                <photo type="speaker">https://jsday.blob.core.windows.net/images/laura-morillo.png</photo>
+            </photos>
+        </event>    
+        <event type="Talk" start-time="09:00AM" end-time="10:00AM">
+            <title>Aprendiendo Javascript</title>
+            <location>Aula 12</location>
+            <speakers>Angélica Ravelo</speakers>
+            <description>Estás aprendiendo Javascript pero hay tanta cantidad de recursos que no sabes por donde empezar. En esta charla te guiaré para que ese inicio sea mucho mas fácil.</description>
+            <keywords>javascript</keywords>
+            <level>Básico</level>
+            <trackname>Track 2</trackname>
+            <page>#</page>
+            <photos>
+                <photo type="speaker">https://jsday.blob.core.windows.net/images/angelica-ravelo.png</photo>
+            </photos>
+        </event>    
+        <event type="Talk" start-time="09:00AM" end-time="10:00AM">
+            <title>Test con DOM para DOMMIES</title>
+            <location>Aula 13</location>
+            <speakers>Aida Albarrán</speakers>
+            <description>Seguro que alguna vez te has preguntado qué formas hay de hacer test contra el DOM, por ejemplo, para conseguir que tus test abarquen casi el 100% de tu aplicación, o quizás porque alguno de tus test requiere de un pequeño dato del DOM para comprobar ciertas funcionalidades. Sea como fuere, si quieres saber cómo empezar, ésta es tu charla.</description>
+            <keywords>arquitectura</keywords>
+            <level>Básico</level>
+            <trackname>Track 3</trackname>
+            <page>#</page>
+            <photos>
+                <photo type="speaker">https://jsday.blob.core.windows.net/images/aida-albarran.png</photo>
+            </photos>
+        </event>         
+        <event type="Talk" start-time="10:00AM" end-time="11:00AM">
+            <title>Los hijos de SAM (State Action Model pattern)</title>
+            <location>Aula Magna</location>
+            <speakers>Carlos Bastos</speakers>
+            <description>El patrón de diseño SAM lleva unos años utilizándose y han surgido diferentes implementaciones inspiradas en su idea: separar estrictamente la lógica de negocio (o de comportamiento de la interfaz) de la representación pura y dura realizada por las vistas. Daremos un repaso a la idea de diseño, la destriparemos en patrones: observer, mediator, event sourcing. Valoraré la ventajas e inconvenientes, la complejidad intrínseca de esta estrategia y cuándo nos compensará utilizarla. Además mostraré ejemplos de código de diferentes implementaciones como Redux, Mobex, Stent (basada en máquinas de estados), etc.</description>
+            <keywords>patrones,redux,mobex,sam</keywords>
+            <level>Intermedio</level>
+            <trackname>Track 1</trackname>
+            <page>#</page>
+            <photos>
+                <photo type="speaker">https://jsday.blob.core.windows.net/images/carlos-bastos.png</photo>
+            </photos>
+        </event>      
+        <event type="Talk" start-time="10:00AM" end-time="11:00AM">
+            <title>NPM Candy Shop</title>
+            <location>Aula 12</location>
+            <speakers>Ulises Santana</speakers>
+            <description>Una rápida introducción a NPM y la comunidad que lo rodea. También aprenderemos a publicar nuestros paquetes en NPM y el mantenimiento de los mismos.</description>
+            <keywords>npm</keywords>
+            <level>Básico</level>
+            <trackname>Track 2</trackname>
+            <page>#</page>
+            <photos>
+                <photo type="speaker">https://jsday.blob.core.windows.net/images/ulises-santana.png</photo>
+            </photos>
+        </event>     
+        <event type="Talk" start-time="10:00AM" end-time="11:00AM">
+            <title>Human Readable E2E Testing</title>
+            <location>Aula 13</location>
+            <speakers>Daniel Ramos</speakers>
+            <description>Veremos técnicas para desarrollar tests E2E mantenibles y legibles. Para ello usaremos Puppeteer, una API de alto nivel para el protocolo de depuración del Chrome.</description>
+            <keywords>e2e,tests</keywords>
+            <level>Básico</level>
+            <trackname>Track 3</trackname>
+            <page>#</page>
+            <photos>
+                <photo type="speaker">https://jsday.blob.core.windows.net/images/daniel-ramos.png</photo>
+            </photos>
+        </event>      
+        <event type="" start-time="11:00AM" end-time="11:30AM">
+            <title>Coffee Break</title>
+            <location></location>
+            <speakers></speakers>
+            <keywords></keywords>
+            <page>#</page>
+            <photos></photos>
+        </event>    
+        <event type="Talk" start-time="11:30AM" end-time="12:30PM">
+            <title>TailwindCSS: Agile UI Development</title>
+            <location>Aula Magna</location>
+            <speakers>Iván Bacallado</speakers>
+            <description>Aprenderemos que es TailwindCSS y cómo podemos utilizarlo para crear nuestro propio UI kit. Aprenderás como desarrollar interfaces de forma ágil utilizando clases css atómicas reutilizables, de forma que el construir un componente se basará en elegir que clases usar.</description>
+            <keywords>TailwindCSS,css</keywords>
+            <level>Intermedio</level>
+            <trackname>Track 1</trackname>            
+            <page>#</page>
+            <photos>
+                <photo type="speaker">https://jsday.blob.core.windows.net/images/ivan-bacallado.png</photo>
+            </photos>
+        </event>         
+        <event type="Talk" start-time="11:30AM" end-time="12:30PM">
+            <title>Atomic design para tu app en React</title>
+            <location>Aula 12</location>
+            <speakers>Raul Marrero</speakers>
+            <description>Aplicación de la metodología de Atomic Design en aplicaciones hechas con React. Explicaré qué significa atomic design, de dónde viene, y por qué considero que es una práctica que se complementa a la perfección con React. De manera práctica, utilizaré un proyecto base Open Source propio para ver una aplicación real utilizando esta metodología.</description>
+            <keywords>react,reactjs,atomic</keywords>
+            <level>Intermedio</level>
+            <trackname>Track 2</trackname>
+            <page>#</page>
+            <photos>
+                <photo type="speaker">https://jsday.blob.core.windows.net/images/raul-marrero.png</photo>
+            </photos>
+        </event>    
+        <event type="Talk" start-time="11:30AM" end-time="12:30PM">
+            <title>Vue: de 0 a 100km/h</title>
+            <location>Aula 13</location>
+            <speakers>Juan Gómez</speakers>
+            <description>Introducción a VueJS donde aprenderemos como construir nuestro front, así como su funcionamiento. Además, veremos un ejemplo práctico.</description>
+            <keywords>vuejs</keywords>
+            <level>Básico</level>
+            <trackname>Track 3</trackname>
+            <page>#</page>
+            <photos>
+                <photo type="speaker">https://jsday.blob.core.windows.net/images/juan-gomez.png</photo>
+            </photos>
+        </event>   
+        <event type="Talk" start-time="12:30PM" end-time="13:30PM">
+            <title>Houdini: programando en CSS</title>
+            <location>Aula Magna</location>
+            <speakers>Joan León</speakers>
+            <description>CSS siempre se ha considerado la parte menos controlable, complicada, mágica y en ocasiones algo aleatoria. Houdini nos ofrece un conjunto de APIs y herramientas Javascript que nos dan la posibilidad de extender CSS para acceder al proceso de diseño y estilo del motor de renderizado del navegador.</description>
+            <keywords>css</keywords>
+            <level>Intermedio</level>
+            <trackname>Track 1</trackname>
+            <page>#</page>
+            <photos>
+                <photo type="speaker">https://jsday.blob.core.windows.net/images/joan-leon.png</photo>
+            </photos>
+        </event>       
+        <event type="Talk" start-time="12:30PM" end-time="13:30PM">
+            <title>Webmidi + React.js</title>
+            <location>Aula 12</location>
+            <speakers>Manuel Padrón</speakers>
+            <description>Descubre como integrar dispositivos físicos en la web usando Webmidi y ReactJS</description>
+            <keywords>webdimi,react</keywords>
+            <level>Básico</level>
+            <trackname>Track 2</trackname>
+            <page>#</page>
+            <photos>
+                <photo type="speaker">https://jsday.blob.core.windows.net/images/manuel-padron.png</photo>
+            </photos>
+        </event>    
+        <event type="Talk" start-time="12:30PM" end-time="13:30PM">
+            <title>Vue + Typescript: decorators vs extend, Fight!</title>
+            <location>Aula 13</location>
+            <speakers>Lissete Luis</speakers>
+            <description>Vue junto con Typescript nos ofrecen dos sabores: decoradores vs extend, ¿Cuál debes elegir? Depende mucho de tu background y del tipo de desarrollo que quieras realizar. En esta charla veremos los pros y contras de cada aproximación para que puedas elegirlos en base a tu criterio.</description>
+            <keywords>vue,javascript</keywords>
+            <level>Básico</level>
+            <trackname>Track 3</trackname>
+            <page>#</page>
+            <photos>
+                <photo type="speaker">https://jsday.blob.core.windows.net/images/lissette-luis.png</photo>
+            </photos>
+        </event>   
+        <event type="" start-time="13:30PM" end-time="14:30PM">
+            <title>Almuerzo</title>
+            <location></location>
+            <speakers></speakers>
+            <keywords></keywords>
+            <page>#</page>
+            <photos></photos>
+        </event>  
+        <event type="Talk" start-time="14:30PM" end-time="15:30PM">
+            <title>Construyendo un bot con Node.JS y Azure</title>
+            <location>Aula Magna</location>
+            <speakers>David Rodríguez</speakers>
+            <description>En esa sesión conoceremos el servicio para construir interfaces conversacionales de la plataforma cloud de Microsoft, Azure Bot Service, y construir un bot en Node.JS integrado en diversos canales como Facebook Messenger, Skype o Telegram.</description>
+            <keywords>azure,bots,nodejs</keywords>
+            <level>Intermedio</level>
+            <trackname>Track 1</trackname>
+            <page>#</page>
+            <photos>
+                <photo type="speaker">https://jsday.blob.core.windows.net/images/david-rodriguez.png</photo>
+            </photos>
+        </event>      
+        <event type="Talk" start-time="14:30PM" end-time="15:30PM">
+            <title>Webpack a fondo</title>
+            <location>Aula 12</location>
+            <speakers>Aitor Chicharro</speakers>
+            <description>¿Qué es Webpack? y ¿cómo funciona? En esta charla descubriremos las entrañas de Webpack y su funcionamiento, plugins y demas elementos que podemos configurar</description>
+            <keywords>webpack</keywords>
+            <level>Avanzado</level>
+            <trackname>Track 2</trackname>
+            <page>#</page>
+            <photos>
+                <photo type="speaker">https://jsday.blob.core.windows.net/images/aitor-chicharro.png</photo>
+            </photos>
+        </event> 
+        <event type="Talk" start-time="14:30PM" end-time="15:30PM">
+            <title>Introducción a React/Redux</title>
+            <location>Aula 13</location>
+            <speakers>Marta Álvarez</speakers>
+            <description>Primeros pasos sobre como implementar Redux en nuestra aplicación React y como manejar el estado de nuestra aplicación de forma eficiente, centralizando los datos de nuestra aplicación en un único lugar.</description>
+            <keywords>react,redux</keywords>
+            <level>Básico</level>
+            <trackname>Track 3</trackname>
+            <page>#</page>
+            <photos>
+                <photo type="speaker">https://jsday.blob.core.windows.net/images/marta-alvarez.png</photo>
+            </photos>
+        </event>    
+        <event type="Talk" start-time="15:30PM" end-time="16:30PM">
+            <title>Vulnerabilidades web en aplicaciones modernas</title>
+            <location>Aula Magna</location>
+            <speakers>Gonzalo García</speakers>
+            <description>Más allá de los clásicos SQL Injection o Cross-Site Scripting, existen otro tipo de vulnerabilidades web menos conocidas y de las cuales los frameworks no nos protegen a la hora de programar. En esta ponencia quisiera detallar, explicar y poner en práctica dos tipos de vulnerabilidades: Server Side Template Injection y Server Side Request Forgery, ambos tipos de vulnerabilidades están siendo muy sonados en los últimos años en el mundo de la seguridad informática, debido a que no son tan fáciles de detectar y en algunos casos, de mitigar.</description>
+            <keywords>seguridad,hacking</keywords>
+            <level>Avanzado</level>
+            <trackname>Track 1</trackname>
+            <page>#</page>
+            <photos>
+                <photo type="speaker">https://jsday.blob.core.windows.net/images/gonzalo-garcia.png</photo>
+            </photos>
+        </event>       
+        <event type="Talk" start-time="15:30PM" end-time="16:30PM">
+            <title>Los proyectos y su gestión</title>
+            <location>Aula 12</location>
+            <speakers>Nuria Gonzalo</speakers>
+            <description>Proyecto iniciado vs proyecto nuevo: pros y contras que nos podemos encontrar. Veremos importancia del equipo más allá de los aspectos técnicos a la hora de gestionar un proyecto.</description>
+            <keywords>proyectos,gestión</keywords>
+            <level>Básico</level>
+            <trackname>Track 2</trackname>
+            <page>#</page>
+            <photos>
+                <photo type="speaker">https://jsday.blob.core.windows.net/images/nuria-gonzalo.png</photo>
+            </photos>
+        </event>         
+        <event type="Talk" start-time="15:30PM" end-time="16:30PM">
+            <title>React con Redux. ¿Cómo? ¿Cuándo? ¿Por qué?</title>
+            <location>Aula 13</location>
+            <speakers>Sara Hernández</speakers>
+            <description>Cuando se habla de React, es común encontrar también referencias a Redux. ¿Para qué sirve y qué ventajas ofrece? ¿En qué casos debe usarse y cuándo no? En esta charla daremos respuesta a estas preguntas y se ilustrará con un ejemplo el uso de React con Redux.</description>
+            <keywords>react,redux</keywords>
+            <level>Básico</level>
+            <trackname>Track 3</trackname>
+            <page>#</page>
+            <photos>
+                <photo type="speaker">https://jsday.blob.core.windows.net/images/sara-hernandez.png</photo>
+            </photos>
+        </event>            
+        <event type="" start-time="16:30PM" end-time="17:00PM">
+            <title>Clausura</title>
+            <location>Aula Magna</location>
+            <speakers></speakers>
+            <keywords></keywords>
+            <page>#</page>
+            <photos></photos>
+        </event>                                                                                                        
+    </day>    
+</conference>    

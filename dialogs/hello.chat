@@ -1,0 +1,8 @@
+user=David
+bot=jsDayBot
+
+user: Hola, como te llamas
+bot: Hola, soy el bot de JSDay. ¿En qué puedo ayudarte?
+
+user: Dime las sesiones de David
+bot: David Rodríguez habla en el Aula Magna el domingo 11 de noviembre a las 14:30 sobre "Cómo construir un bot con NodeJS y Azure Bot Service"

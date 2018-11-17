@@ -1,0 +1,1 @@
+{"version":3,"file":"userProfile.js","sourceRoot":"","sources":["../../../src/dialogs/greeting/userProfile.ts"],"names":[],"mappings":";AAAA,4DAA4D;AAC5D,kCAAkC;;AAElC;;;GAGG;AACH,MAAM,WAAW;IAIf;;;;;;OAMG;IACH,YAAY,IAAa,EAAE,IAAa;QACtC,IAAI,CAAC,IAAI,GAAG,IAAI,IAAI,SAAS,CAAC;QAC9B,IAAI,CAAC,IAAI,GAAG,IAAI,IAAI,SAAS,CAAC;IAChC,CAAC;CACF;AAEQ,kCAAW;AAFnB,CAAC"}

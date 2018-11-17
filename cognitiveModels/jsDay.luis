@@ -1,0 +1,1515 @@
+{
+  "luis_schema_version": "3.1.0",
+  "versionId": "0.1",
+  "name": "jsDay",
+  "desc": "",
+  "culture": "es-es",
+  "intents": [
+    {
+      "name": "Cancel"
+    },
+    {
+      "name": "Greeting"
+    },
+    {
+      "name": "Help"
+    },
+    {
+      "name": "Location"
+    },
+    {
+      "name": "None"
+    },
+    {
+      "name": "SessionDetails"
+    },
+    {
+      "name": "Speaker"
+    },
+    {
+      "name": "Time"
+    },
+    {
+      "name": "Topic"
+    }
+  ],
+  "entities": [
+    {
+      "name": "Location",
+      "roles": []
+    },
+    {
+      "name": "Subject",
+      "roles": []
+    },
+    {
+      "name": "userLocation",
+      "roles": []
+    },
+    {
+      "name": "userName",
+      "roles": []
+    }
+  ],
+  "composites": [],
+  "closedLists": [
+    {
+      "name": "Person",
+      "subLists": [
+        {
+          "canonicalForm": "Naiara Abaroa",
+          "list": [
+            "Naiara",
+            "Abaroa"
+          ]
+        },
+        {
+          "canonicalForm": "Yodra Lopez",
+          "list": [
+            "Yodra"
+          ]
+        },
+        {
+          "canonicalForm": "Sema García",
+          "list": [
+            "Sema"
+          ]
+        },
+        {
+          "canonicalForm": "Axel Hernández",
+          "list": [
+            "Axel"
+          ]
+        },
+        {
+          "canonicalForm": "Manuel Padrón",
+          "list": [
+            "Manuel"
+          ]
+        },
+        {
+          "canonicalForm": "Iván Bacallado",
+          "list": [
+            "Iván",
+            "Bacallado"
+          ]
+        },
+        {
+          "canonicalForm": "Angélica Ravelo",
+          "list": [
+            "Angélica",
+            "Angelica"
+          ]
+        },
+        {
+          "canonicalForm": "José Román (Manz)",
+          "list": [
+            "Román",
+            "Roman",
+            "Manz"
+          ]
+        },
+        {
+          "canonicalForm": "Luis Antón",
+          "list": [
+            "Antón",
+            "Anton"
+          ]
+        },
+        {
+          "canonicalForm": "Alberto Ruiz",
+          "list": [
+            "Alberto"
+          ]
+        },
+        {
+          "canonicalForm": "Dailos Díaz",
+          "list": [
+            "Dailos",
+            "Dailo",
+            "dailos"
+          ]
+        },
+        {
+          "canonicalForm": "Adrián Ferrera",
+          "list": [
+            "Adrián",
+            "Adrian"
+          ]
+        },
+        {
+          "canonicalForm": "Jon Rojí",
+          "list": [
+            "Jon",
+            "Rojí",
+            "Roji"
+          ]
+        },
+        {
+          "canonicalForm": "Raquel Moreno",
+          "list": [
+            "Raquel"
+          ]
+        },
+        {
+          "canonicalForm": "Ayoze Marcelino",
+          "list": [
+            "Ayoze",
+            "Ayose",
+            "Marcelino"
+          ]
+        },
+        {
+          "canonicalForm": "Carlos Blé",
+          "list": [
+            "Blé",
+            "Ble"
+          ]
+        },
+        {
+          "canonicalForm": "José Manuel Lucas",
+          "list": [
+            "José Manuel",
+            "Lucas",
+            "Jose Manuel"
+          ]
+        },
+        {
+          "canonicalForm": "Steve Purves",
+          "list": [
+            "Steve",
+            "Purves"
+          ]
+        },
+        {
+          "canonicalForm": "Laura Morillo",
+          "list": [
+            "Laura",
+            "Morillo"
+          ]
+        },
+        {
+          "canonicalForm": "Marta Fonda",
+          "list": [
+            "Fonda"
+          ]
+        },
+        {
+          "canonicalForm": "Aida Albarrán",
+          "list": [
+            "Aida",
+            "Aída",
+            "Albarran",
+            "Albarrán"
+          ]
+        },
+        {
+          "canonicalForm": "Carlos Bastos",
+          "list": [
+            "Bastos",
+            "Carlos"
+          ]
+        },
+        {
+          "canonicalForm": "Ulises Santana",
+          "list": [
+            "Ulises",
+            "Santana"
+          ]
+        },
+        {
+          "canonicalForm": "Daniel Ramos",
+          "list": [
+            "Ramos",
+            "Daniel"
+          ]
+        },
+        {
+          "canonicalForm": "Francisco Verdú (Kikobeats)",
+          "list": [
+            "Francisco",
+            "Verdú",
+            "Fran",
+            "Kikobeats",
+            "kiko",
+            "verdu"
+          ]
+        },
+        {
+          "canonicalForm": "Raul Marrero",
+          "list": [
+            "Raul",
+            "Raúl",
+            "Raúl Marrero"
+          ]
+        },
+        {
+          "canonicalForm": "Juan Gómez",
+          "list": [
+            "Juan",
+            "Gómez",
+            "gomez"
+          ]
+        },
+        {
+          "canonicalForm": "Joan León",
+          "list": [
+            "Joan"
+          ]
+        },
+        {
+          "canonicalForm": "Azahara Fernández",
+          "list": [
+            "Azahara"
+          ]
+        },
+        {
+          "canonicalForm": "Lissete Luis",
+          "list": [
+            "Lissete",
+            "Liset",
+            "Lissette",
+            "Lisete"
+          ]
+        },
+        {
+          "canonicalForm": "David Rodríguez",
+          "list": [
+            "David",
+            "David Rodriguez"
+          ]
+        },
+        {
+          "canonicalForm": "Aitor Chicharro",
+          "list": [
+            "Aitor",
+            "Chicharro"
+          ]
+        },
+        {
+          "canonicalForm": "Marta Álvarez",
+          "list": [
+            "Marta Alvarez"
+          ]
+        },
+        {
+          "canonicalForm": "Gonzalo García",
+          "list": [
+            "Gonzalo"
+          ]
+        },
+        {
+          "canonicalForm": "Nuria Gonzalo",
+          "list": [
+            "Nuria"
+          ]
+        },
+        {
+          "canonicalForm": "Sara Hernández",
+          "list": [
+            "Sara"
+          ]
+        }
+      ],
+      "roles": []
+    }
+  ],
+  "patternAnyEntities": [],
+  "regex_entities": [
+    {
+      "name": "SessionTitle",
+      "regexPattern": "\\\".*\\\"",
+      "roles": []
+    }
+  ],
+  "prebuiltEntities": [],
+  "model_features": [],
+  "regex_features": [],
+  "patterns": [
+    {
+      "pattern": "puedes asumir que vivo en {userLocation}",
+      "intent": "Greeting"
+    },
+    {
+      "pattern": "soy {userName}",
+      "intent": "Greeting"
+    },
+    {
+      "pattern": "soy {userName}[,] [y soy] de {userLocation}",
+      "intent": "Greeting"
+    },
+    {
+      "pattern": "me llamo {userName} y soy de {userLocation}",
+      "intent": "Greeting"
+    },
+    {
+      "pattern": "resido en {userLocation}",
+      "intent": "Greeting"
+    },
+    {
+      "pattern": "me llamo {userName}",
+      "intent": "Greeting"
+    },
+    {
+      "pattern": "puedes llamarme {userName}",
+      "intent": "Greeting"
+    },
+    {
+      "pattern": "{userName}.",
+      "intent": "Greeting"
+    },
+    {
+      "pattern": "{userName} es mi nombre",
+      "intent": "Greeting"
+    },
+    {
+      "pattern": "vivo en {userLocation}",
+      "intent": "Greeting"
+    },
+    {
+      "pattern": "algunos me llaman {userName}",
+      "intent": "Greeting"
+    },
+    {
+      "pattern": "mi nombre es {userName}",
+      "intent": "Greeting"
+    },
+    {
+      "pattern": "llámame {userName}",
+      "intent": "Greeting"
+    }
+  ],
+  "utterances": [
+    {
+      "text": "?",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "a que hora es el workshop sobre nodejs",
+      "intent": "Time",
+      "entities": [
+        {
+          "entity": "Subject",
+          "startPos": 32,
+          "endPos": 37
+        }
+      ]
+    },
+    {
+      "text": "a qué hora es la presentación de david",
+      "intent": "Time",
+      "entities": []
+    },
+    {
+      "text": "a que hora es la presentación sobre css",
+      "intent": "Time",
+      "entities": [
+        {
+          "entity": "Subject",
+          "startPos": 36,
+          "endPos": 38
+        }
+      ]
+    },
+    {
+      "text": "a que hora es la sesion de typescript",
+      "intent": "Time",
+      "entities": [
+        {
+          "entity": "Subject",
+          "startPos": 27,
+          "endPos": 36
+        }
+      ]
+    },
+    {
+      "text": "a que hora habla manz",
+      "intent": "Time",
+      "entities": []
+    },
+    {
+      "text": "abandonar",
+      "intent": "Cancel",
+      "entities": []
+    },
+    {
+      "text": "abortar",
+      "intent": "Cancel",
+      "entities": []
+    },
+    {
+      "text": "ayuda",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "ayuda por favor",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "ayúdame",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "buenas",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "buenas noches",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "buenas tardes",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "buenos dias",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "buenos días",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "cancelar",
+      "intent": "Cancel",
+      "entities": []
+    },
+    {
+      "text": "charlas sobre npm",
+      "intent": "Topic",
+      "entities": [
+        {
+          "entity": "Subject",
+          "startPos": 14,
+          "endPos": 16
+        }
+      ]
+    },
+    {
+      "text": "cómo llego en coche al evento",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "cómo puedo interactuar contigo",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "cómo te llamas",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "cómo va esto",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "con qué me puedes ayudar",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "con quién estoy hablando",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "con quién hablo",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "confundido",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "contenido de la sesión de david",
+      "intent": "Topic",
+      "entities": []
+    },
+    {
+      "text": "cuáles son tus capacidades",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "cuándo es la sesión de dailos",
+      "intent": "Time",
+      "entities": [
+        {
+          "entity": "Subject",
+          "startPos": 23,
+          "endPos": 28
+        }
+      ]
+    },
+    {
+      "text": "cuando es la sesión sobre bots",
+      "intent": "Time",
+      "entities": [
+        {
+          "entity": "Subject",
+          "startPos": 26,
+          "endPos": 29
+        }
+      ]
+    },
+    {
+      "text": "cuándo habla manz",
+      "intent": "Time",
+      "entities": []
+    },
+    {
+      "text": "de ningún modo",
+      "intent": "Cancel",
+      "entities": [
+        {
+          "entity": "Subject",
+          "startPos": 3,
+          "endPos": 8
+        }
+      ]
+    },
+    {
+      "text": "de que trata la sesión de manz",
+      "intent": "Topic",
+      "entities": []
+    },
+    {
+      "text": "de qué va a hablar dailos",
+      "intent": "Topic",
+      "entities": []
+    },
+    {
+      "text": "de que va a hablar david",
+      "intent": "Topic",
+      "entities": []
+    },
+    {
+      "text": "dime donde es la sesión sobre javascript",
+      "intent": "Location",
+      "entities": [
+        {
+          "entity": "Subject",
+          "startPos": 30,
+          "endPos": 39
+        }
+      ]
+    },
+    {
+      "text": "dime dónde está la sesión sobre nodejs",
+      "intent": "Location",
+      "entities": [
+        {
+          "entity": "Subject",
+          "startPos": 32,
+          "endPos": 37
+        }
+      ]
+    },
+    {
+      "text": "dime las charlas sobre bots",
+      "intent": "Topic",
+      "entities": [
+        {
+          "entity": "Subject",
+          "startPos": 23,
+          "endPos": 26
+        }
+      ]
+    },
+    {
+      "text": "dime que sesión está en el aula 13",
+      "intent": "Speaker",
+      "entities": [
+        {
+          "entity": "Subject",
+          "startPos": 27,
+          "endPos": 33
+        }
+      ]
+    },
+    {
+      "text": "dime si alguna sesión sobre css",
+      "intent": "Topic",
+      "entities": [
+        {
+          "entity": "Subject",
+          "startPos": 28,
+          "endPos": 30
+        }
+      ]
+    },
+    {
+      "text": "dónde aprendo git",
+      "intent": "Location",
+      "entities": [
+        {
+          "entity": "Subject",
+          "startPos": 14,
+          "endPos": 16
+        }
+      ]
+    },
+    {
+      "text": "dónde es la charla sobre animación",
+      "intent": "Location",
+      "entities": [
+        {
+          "entity": "Subject",
+          "startPos": 25,
+          "endPos": 33
+        }
+      ]
+    },
+    {
+      "text": "dónde es la charla sobre blockchain",
+      "intent": "Location",
+      "entities": [
+        {
+          "entity": "Subject",
+          "startPos": 25,
+          "endPos": 34
+        }
+      ]
+    },
+    {
+      "text": "dónde es la charla sobre webpack",
+      "intent": "Location",
+      "entities": [
+        {
+          "entity": "Subject",
+          "startPos": 25,
+          "endPos": 31
+        }
+      ]
+    },
+    {
+      "text": "donde es la keynote",
+      "intent": "Location",
+      "entities": [
+        {
+          "entity": "Subject",
+          "startPos": 12,
+          "endPos": 18
+        }
+      ]
+    },
+    {
+      "text": "dónde es la sesión de aurelia",
+      "intent": "Location",
+      "entities": [
+        {
+          "entity": "Subject",
+          "startPos": 22,
+          "endPos": 28
+        }
+      ]
+    },
+    {
+      "text": "dónde es la sesión de typescript",
+      "intent": "Location",
+      "entities": [
+        {
+          "entity": "Subject",
+          "startPos": 22,
+          "endPos": 31
+        }
+      ]
+    },
+    {
+      "text": "dónde es la sesión sobre assistantjs",
+      "intent": "Location",
+      "entities": [
+        {
+          "entity": "Subject",
+          "startPos": 25,
+          "endPos": 35
+        }
+      ]
+    },
+    {
+      "text": "dónde es la sesión sobre bootstrap",
+      "intent": "Location",
+      "entities": [
+        {
+          "entity": "Subject",
+          "startPos": 25,
+          "endPos": 33
+        }
+      ]
+    },
+    {
+      "text": "donde es la sesión sobre npm",
+      "intent": "Location",
+      "entities": [
+        {
+          "entity": "Subject",
+          "startPos": 25,
+          "endPos": 27
+        }
+      ]
+    },
+    {
+      "text": "dónde es la sesión sobre redux",
+      "intent": "Location",
+      "entities": [
+        {
+          "entity": "Subject",
+          "startPos": 25,
+          "endPos": 29
+        }
+      ]
+    },
+    {
+      "text": "dónde es la siguiente charla sobre css",
+      "intent": "Location",
+      "entities": [
+        {
+          "entity": "Subject",
+          "startPos": 35,
+          "endPos": 37
+        }
+      ]
+    },
+    {
+      "text": "dónde está el workshop de sema",
+      "intent": "Location",
+      "entities": []
+    },
+    {
+      "text": "dónde está hablando david",
+      "intent": "Location",
+      "entities": []
+    },
+    {
+      "text": "donde puedo aparcar",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "donde puedo encontrar la sesión sobre react",
+      "intent": "Location",
+      "entities": [
+        {
+          "entity": "Subject",
+          "startPos": 38,
+          "endPos": 42
+        }
+      ]
+    },
+    {
+      "text": "donde se está hablando sobre bots",
+      "intent": "Location",
+      "entities": [
+        {
+          "entity": "Subject",
+          "startPos": 29,
+          "endPos": 32
+        }
+      ]
+    },
+    {
+      "text": "dónde veo la sesión sobre ethereum",
+      "intent": "Location",
+      "entities": [
+        {
+          "entity": "Subject",
+          "startPos": 26,
+          "endPos": 33
+        }
+      ]
+    },
+    {
+      "text": "el cielo es azul y el mar también",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "elena",
+      "intent": "Greeting",
+      "entities": [
+        {
+          "entity": "userName",
+          "startPos": 0,
+          "endPos": 4
+        }
+      ]
+    },
+    {
+      "text": "en donde veo la sesión sobre devops",
+      "intent": "Location",
+      "entities": [
+        {
+          "entity": "Subject",
+          "startPos": 29,
+          "endPos": 34
+        }
+      ]
+    },
+    {
+      "text": "en qué aula es la sesión de vue",
+      "intent": "Location",
+      "entities": [
+        {
+          "entity": "Subject",
+          "startPos": 28,
+          "endPos": 30
+        }
+      ]
+    },
+    {
+      "text": "en que habitación es la keynote",
+      "intent": "Location",
+      "entities": [
+        {
+          "entity": "Subject",
+          "startPos": 24,
+          "endPos": 30
+        }
+      ]
+    },
+    {
+      "text": "en qué sala es la sesión de manz",
+      "intent": "Location",
+      "entities": []
+    },
+    {
+      "text": "estoy perdido",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "frustrado",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "garachico es donde vivo",
+      "intent": "Greeting",
+      "entities": [
+        {
+          "entity": "userLocation",
+          "startPos": 0,
+          "endPos": 8
+        }
+      ]
+    },
+    {
+      "text": "gran canaria",
+      "intent": "Greeting",
+      "entities": [
+        {
+          "entity": "userLocation",
+          "startPos": 0,
+          "endPos": 11
+        }
+      ]
+    },
+    {
+      "text": "hay algún workshop sobre bots",
+      "intent": "Topic",
+      "entities": [
+        {
+          "entity": "Subject",
+          "startPos": 25,
+          "endPos": 28
+        }
+      ]
+    },
+    {
+      "text": "hay alguna charla sobre bots",
+      "intent": "Topic",
+      "entities": [
+        {
+          "entity": "Subject",
+          "startPos": 24,
+          "endPos": 27
+        }
+      ]
+    },
+    {
+      "text": "hay alguna sesión sobre bots",
+      "intent": "Topic",
+      "entities": [
+        {
+          "entity": "Subject",
+          "startPos": 24,
+          "endPos": 27
+        }
+      ]
+    },
+    {
+      "text": "help",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "hi",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "hola",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "hora cómo estás",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "icod",
+      "intent": "Greeting",
+      "entities": [
+        {
+          "entity": "userLocation",
+          "startPos": 0,
+          "endPos": 3
+        }
+      ]
+    },
+    {
+      "text": "la laguna",
+      "intent": "Greeting",
+      "entities": [
+        {
+          "entity": "userLocation",
+          "startPos": 0,
+          "endPos": 8
+        }
+      ]
+    },
+    {
+      "text": "la victoria",
+      "intent": "Greeting",
+      "entities": [
+        {
+          "entity": "userLocation",
+          "startPos": 0,
+          "endPos": 10
+        }
+      ]
+    },
+    {
+      "text": "llámame carmen",
+      "intent": "Greeting",
+      "entities": [
+        {
+          "entity": "userName",
+          "startPos": 8,
+          "endPos": 13
+        }
+      ]
+    },
+    {
+      "text": "llámame david",
+      "intent": "Greeting",
+      "entities": [
+        {
+          "entity": "userName",
+          "startPos": 8,
+          "endPos": 12
+        }
+      ]
+    },
+    {
+      "text": "me gustaría cancelar",
+      "intent": "Cancel",
+      "entities": []
+    },
+    {
+      "text": "me llamo antonio",
+      "intent": "Greeting",
+      "entities": [
+        {
+          "entity": "userName",
+          "startPos": 9,
+          "endPos": 15
+        }
+      ]
+    },
+    {
+      "text": "me llamo john",
+      "intent": "Greeting",
+      "entities": [
+        {
+          "entity": "userName",
+          "startPos": 9,
+          "endPos": 12
+        }
+      ]
+    },
+    {
+      "text": "me puedes ayudar",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "mi ciudad es barcelona",
+      "intent": "Greeting",
+      "entities": [
+        {
+          "entity": "userLocation",
+          "startPos": 13,
+          "endPos": 21
+        }
+      ]
+    },
+    {
+      "text": "mi nombre es david rodriguez y soy de icod",
+      "intent": "Greeting",
+      "entities": [
+        {
+          "entity": "userName",
+          "startPos": 13,
+          "endPos": 27
+        },
+        {
+          "entity": "userLocation",
+          "startPos": 38,
+          "endPos": 41
+        }
+      ]
+    },
+    {
+      "text": "mi nombre es rubén",
+      "intent": "Greeting",
+      "entities": [
+        {
+          "entity": "userName",
+          "startPos": 13,
+          "endPos": 17
+        }
+      ]
+    },
+    {
+      "text": "no",
+      "intent": "Cancel",
+      "entities": []
+    },
+    {
+      "text": "no entiendo",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "no hagas eso",
+      "intent": "Cancel",
+      "entities": []
+    },
+    {
+      "text": "no lo hagas",
+      "intent": "Cancel",
+      "entities": []
+    },
+    {
+      "text": "no te daré mi nombre",
+      "intent": "Cancel",
+      "entities": []
+    },
+    {
+      "text": "no te voy a decir dónde vivo",
+      "intent": "Cancel",
+      "entities": []
+    },
+    {
+      "text": "no te voy a decir mi nombre ni ubicación",
+      "intent": "Cancel",
+      "entities": []
+    },
+    {
+      "text": "no voy a darte mi localización",
+      "intent": "Cancel",
+      "entities": []
+    },
+    {
+      "text": "no voy a darte mi ubicación",
+      "intent": "Cancel",
+      "entities": []
+    },
+    {
+      "text": "para",
+      "intent": "Cancel",
+      "entities": []
+    },
+    {
+      "text": "parar",
+      "intent": "Cancel",
+      "entities": []
+    },
+    {
+      "text": "perdido",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "por favor cancela",
+      "intent": "Cancel",
+      "entities": []
+    },
+    {
+      "text": "por favor para",
+      "intent": "Cancel",
+      "entities": []
+    },
+    {
+      "text": "por qué esto no funciona",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "puedes asumir que vivo en los cristianos",
+      "intent": "Greeting",
+      "entities": [
+        {
+          "entity": "userLocation",
+          "startPos": 26,
+          "endPos": 39
+        }
+      ]
+    },
+    {
+      "text": "puedes llamarme ricardo",
+      "intent": "Greeting",
+      "entities": [
+        {
+          "entity": "userLocation",
+          "startPos": 16,
+          "endPos": 22
+        }
+      ]
+    },
+    {
+      "text": "puedo aparcar la bicicleta",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "qué hay ahora en el aula 12",
+      "intent": "Speaker",
+      "entities": [
+        {
+          "entity": "Location",
+          "startPos": 20,
+          "endPos": 26
+        }
+      ]
+    },
+    {
+      "text": "qué puedes hacer",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "qué puedo decir",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "qué puedo hacer ahora",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "qué sabes hacer",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "qué sesiones hay sobre vue",
+      "intent": "Topic",
+      "entities": [
+        {
+          "entity": "Subject",
+          "startPos": 23,
+          "endPos": 25
+        }
+      ]
+    },
+    {
+      "text": "que tiempo hace en la laguna",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "quién eres",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "quién es david",
+      "intent": "Topic",
+      "entities": []
+    },
+    {
+      "text": "quién está hablando en el aula magna",
+      "intent": "Speaker",
+      "entities": [
+        {
+          "entity": "Location",
+          "startPos": 26,
+          "endPos": 35
+        }
+      ]
+    },
+    {
+      "text": "quién va a dar la keynote",
+      "intent": "Speaker",
+      "entities": [
+        {
+          "entity": "Subject",
+          "startPos": 18,
+          "endPos": 24
+        }
+      ]
+    },
+    {
+      "text": "quién va a hablar sobre bots",
+      "intent": "Speaker",
+      "entities": [
+        {
+          "entity": "Subject",
+          "startPos": 24,
+          "endPos": 27
+        }
+      ]
+    },
+    {
+      "text": "quiero una pizza",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "resido en la orotava",
+      "intent": "Greeting",
+      "entities": [
+        {
+          "entity": "userLocation",
+          "startPos": 10,
+          "endPos": 19
+        }
+      ]
+    },
+    {
+      "text": "sala de javascript",
+      "intent": "Location",
+      "entities": [
+        {
+          "entity": "Subject",
+          "startPos": 8,
+          "endPos": 17
+        }
+      ]
+    },
+    {
+      "text": "saludos",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "santa cruz de tenerife",
+      "intent": "Greeting",
+      "entities": [
+        {
+          "entity": "userLocation",
+          "startPos": 0,
+          "endPos": 21
+        }
+      ]
+    },
+    {
+      "text": "sesión de angular",
+      "intent": "Location",
+      "entities": [
+        {
+          "entity": "Subject",
+          "startPos": 10,
+          "endPos": 16
+        }
+      ]
+    },
+    {
+      "text": "sesión de david",
+      "intent": "Topic",
+      "entities": []
+    },
+    {
+      "text": "sesion de naiara",
+      "intent": "Topic",
+      "entities": [
+        {
+          "entity": "Subject",
+          "startPos": 10,
+          "endPos": 15
+        }
+      ]
+    },
+    {
+      "text": "sesión de naiara",
+      "intent": "Topic",
+      "entities": [
+        {
+          "entity": "Subject",
+          "startPos": 10,
+          "endPos": 15
+        }
+      ]
+    },
+    {
+      "text": "sesion de node",
+      "intent": "Topic",
+      "entities": [
+        {
+          "entity": "Subject",
+          "startPos": 10,
+          "endPos": 13
+        }
+      ]
+    },
+    {
+      "text": "sesiones de angular",
+      "intent": "Topic",
+      "entities": [
+        {
+          "entity": "Subject",
+          "startPos": 12,
+          "endPos": 18
+        }
+      ]
+    },
+    {
+      "text": "sesiones de react",
+      "intent": "Topic",
+      "entities": [
+        {
+          "entity": "Subject",
+          "startPos": 12,
+          "endPos": 16
+        }
+      ]
+    },
+    {
+      "text": "sesiones de reactjs",
+      "intent": "Topic",
+      "entities": [
+        {
+          "entity": "Subject",
+          "startPos": 12,
+          "endPos": 18
+        }
+      ]
+    },
+    {
+      "text": "soy aarón",
+      "intent": "Greeting",
+      "entities": [
+        {
+          "entity": "userName",
+          "startPos": 4,
+          "endPos": 8
+        }
+      ]
+    },
+    {
+      "text": "soy carmen",
+      "intent": "Greeting",
+      "entities": [
+        {
+          "entity": "userName",
+          "startPos": 4,
+          "endPos": 9
+        }
+      ]
+    },
+    {
+      "text": "soy césar de la guancha",
+      "intent": "Greeting",
+      "entities": [
+        {
+          "entity": "userName",
+          "startPos": 4,
+          "endPos": 8
+        },
+        {
+          "entity": "userLocation",
+          "startPos": 13,
+          "endPos": 22
+        }
+      ]
+    },
+    {
+      "text": "soy del puerto de la cruz",
+      "intent": "Greeting",
+      "entities": [
+        {
+          "entity": "userLocation",
+          "startPos": 8,
+          "endPos": 24
+        }
+      ]
+    },
+    {
+      "text": "soy víctor de madrid",
+      "intent": "Greeting",
+      "entities": [
+        {
+          "entity": "userName",
+          "startPos": 4,
+          "endPos": 9
+        },
+        {
+          "entity": "userLocation",
+          "startPos": 14,
+          "endPos": 19
+        }
+      ]
+    },
+    {
+      "text": "stop",
+      "intent": "Cancel",
+      "entities": []
+    },
+    {
+      "text": "tenerife",
+      "intent": "Greeting",
+      "entities": [
+        {
+          "entity": "userLocation",
+          "startPos": 0,
+          "endPos": 7
+        }
+      ]
+    },
+    {
+      "text": "ver más sobre \"nombre de la sesión\"",
+      "intent": "SessionDetails",
+      "entities": []
+    },
+    {
+      "text": "vivo en el sauzal",
+      "intent": "Greeting",
+      "entities": [
+        {
+          "entity": "userLocation",
+          "startPos": 8,
+          "endPos": 16
+        }
+      ]
+    }
+  ],
+  "settings": []
+}

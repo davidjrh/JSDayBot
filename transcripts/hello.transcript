@@ -1,0 +1,59 @@
+[
+  {
+    "conversation": {
+      "id": "kOK3P2wrfcS4c3GswQX1iRRJQRM="
+    },
+    "id": "1",
+    "timestamp": "2018-10-29T14:17:19.100Z",
+    "type": "conversationUpdate",
+    "channelId": "chatdown",
+    "membersAdded": [
+      {
+        "id": "JbugXFhYDZmJ8LUcSXVdnIABjRo=",
+        "name": "jsDayBot",
+        "role": "bot"
+      }
+    ],
+    "membersRemoved": []
+  },
+  {
+    "conversation": {
+      "id": "kOK3P2wrfcS4c3GswQX1iRRJQRM="
+    },
+    "id": "2",
+    "recipient": {
+      "id": "JbugXFhYDZmJ8LUcSXVdnIABjRo=",
+      "name": "jsDayBot",
+      "role": "bot"
+    },
+    "from": {
+      "id": "0nk3+RTr6Z7jFfBESWeOzPtlgZE=",
+      "name": "David",
+      "role": "user"
+    },
+    "text": "Hola, como te llamas",
+    "timestamp": "2018-10-29T14:17:21.100Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "kOK3P2wrfcS4c3GswQX1iRRJQRM="
+    },
+    "id": "3",
+    "recipient": {
+      "id": "0nk3+RTr6Z7jFfBESWeOzPtlgZE=",
+      "name": "David",
+      "role": "user"
+    },
+    "from": {
+      "id": "JbugXFhYDZmJ8LUcSXVdnIABjRo=",
+      "name": "jsDayBot",
+      "role": "bot"
+    },
+    "text": "Soy el bot de JSDay",
+    "timestamp": "2018-10-29T14:17:23.100Z",
+    "type": "message",
+    "channelId": "chatdown"
+  }
+]

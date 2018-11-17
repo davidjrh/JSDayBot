@@ -1,0 +1,46 @@
+{
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "type": "AdaptiveCard",
+  "version": "1.0",
+  "body": [
+    {
+      "type": "Image",
+      "url": "https://jsday.blob.core.windows.net/images/Welcome.png",
+      "size": "stretch"
+    },
+    {
+      "type": "TextBlock",
+      "spacing": "medium",
+      "size": "default",
+      "weight": "bolder",
+      "text": "¡Bienvenido al jsDay Canarias 2018!",
+      "wrap": true,
+      "maxLines": 0
+    },
+    {
+      "type": "TextBlock",
+      "size": "default",
+      "isSubtle": "yes",
+      "text": "Te puedo ayudar a conocer las sesiones y los speakers que las impartirán, sigue alguna de estas opciones para no perderte.",
+      "wrap": true,
+      "maxLines": 0
+    }
+  ],
+  "actions": [
+    {
+      "type": "Action.Submit",
+      "title": "Sesiones",
+      "text": "Sesiones"
+    },
+    {
+      "type": "Action.Submit",
+      "title": "Ayuda",
+      "text": "Ayuda"
+    },
+    {
+      "type": "Action.OpenUrl",
+      "title": "Learn how to deploy",
+      "url": "https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-howto-deploy-azure?view=azure-bot-service-4.0"
+    }
+  ]
+}

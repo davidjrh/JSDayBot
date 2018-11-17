@@ -1,0 +1,17 @@
+<conference name="" start-date="" end-date="">
+    <day date="">
+        <event type="" start-time="" end-time="">
+            <location></location>
+            <speakers></speakers>
+            <title></title>
+            <description></description>
+            <keywords></keywords>
+            <track></track>
+            <level></level>
+            <link></link>
+            <photos>
+                <photo type=""></photo>
+            </photos>
+        </event>
+    </day>
+</conference>

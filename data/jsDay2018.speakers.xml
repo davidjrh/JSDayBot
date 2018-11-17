@@ -1,0 +1,364 @@
+<conference start-date="2018-11-10" end-date="2018-11-11">
+    <speakers>
+        <speaker>
+            <name>Naiara Abaroa</name>
+            <title>Front-end Designer en TransferWise</title>
+            <bio>Front-end designer apasionada por el CSS y los estándares del W3C. Actualmente trabajo para el equipo Organic Growth de TransferWise, dando forma a la manera en que el usuario ve, entiende e interactúa con esta revolucionaria manera de hacer transferencias internacionales. Docente y ponente de temas relacionados con el desarrollo front-end. Como parte de FrontGirls (@frontgirlsio) soy una 'girl with superpowers'. Antiorganizo el open space @TheAntiEvent.</bio>
+            <photo>https://jsday.blob.core.windows.net/images/naiara-abaroa.png</photo>
+            <twitter>https://twitter.com/nabaroa</twitter>
+            <linkedin>https://linkedin.com/in/naiaraabaroa/</linkedin>
+            <github>https://github.com/nabaroa</github>
+            <blog>http://www.naknak.me/</blog>
+        </speaker>
+        <speaker>
+            <name>Aida Albarrán</name>
+            <title>Desarrolladora front-end en KairosDS</title>
+            <bio>Vengo con un background en la mochila muy variopinto. Soy licenciada en Psicología, con formación en Orientación y Terapia Sexual y Recursos Humanos. Ahora soy Front-end y seré una #adalaber para toda la vida, pero también he sido cantante, he trabajado mucho tiempo de cara al público en ventas y como técnico de Recursos Humanos. Actualmente trabajo como Front-End Developer en KairosDS y he recibido allí formación por parte del gran Carlos Blé. Soy amante de Javascript y de la lógica y tengo muchas ganas de seguir aprendiendo de esta apasionante profesión que ofrece tanto.</bio>
+            <photo>https://jsday.blob.core.windows.net/images/aida-albarran.png</photo>
+            <twitter>https://twitter.com/aidaispro</twitter>
+            <linkedin>https://www.linkedin.com/in/aidaalbarran/</linkedin>
+            <github>https://github.com/Alienah</github>
+            <blog></blog>
+        </speaker>
+        <speaker>
+            <name>Marta Álvarez</name>
+            <title>Software engineer at Open Canarias</title>
+            <bio></bio>
+            <photo>https://jsday.blob.core.windows.net/images/marta-alvarez.png</photo>
+            <twitter>https://twitter.com/martalv7</twitter>
+            <linkedin>https://www.linkedin.com/in/marta-%C3%A1lvarez-torres-072a36164/</linkedin>
+            <github></github>
+            <blog></blog>
+        </speaker> 
+        <speaker>
+            <name>Luis Antón</name>
+            <title>Co-founder and developer at PlayMedusa</title>
+            <bio>A PhD in Computer Science who loves games. More than ten years designing and developing video games of my own and as a service for education, treatment of learning disabilities, advertising or just for plain fun.</bio>
+            <photo>https://jsday.blob.core.windows.net/images/luis-anton.png</photo>
+            <twitter>https://twitter.com/playmedusa</twitter>
+            <linkedin>https://www.linkedin.com/in/luisantoncanalis/</linkedin>
+            <github></github>
+            <blog>http://playmedusa.com/</blog>
+        </speaker>
+        <speaker>
+            <name>Carlos Bastos</name>
+            <title>Software Architect at Plain Concepts</title>
+            <bio>I have been programming for 12 years and work as a frontend architect. I have led the front end of large projects (teams of more than 100 developers, product with millions of users...), both public and private, and I have also worked as a consultant and taught training for companies. I am passionate about clean code, patterns, design principles, good practices, object-oriented programming and in general to improve my skills.</bio>
+            <photo>https://jsday.blob.core.windows.net/images/carlos-bastos.png</photo>
+            <twitter>https://twitter.com/cbastospc</twitter>
+            <linkedin>https://www.linkedin.com/in/carlos-bastos-p-c-9163752b/</linkedin>
+            <github>https://github.com/cbastos</github>
+            <blog>http://www.cbastos.com/</blog>
+        </speaker> 
+        <speaker>
+            <name>Carlos Blé</name>
+            <title>Founder of Lean Mind</title>
+            <bio>Author of the first book on Test Driven Development in the Spanish language: Agile Design using TDD. Software developer and architect. Business analyst. I teach teams how to write clean code and how to test-drive it (TDD). Also, I help small and medium size companies with their transition to XP</bio>
+            <photo>https://jsday.blob.core.windows.net/images/carlos-ble.png</photo>
+            <twitter>https://twitter.com/carlosble</twitter>
+            <linkedin>https://www.linkedin.com/in/carlosble</linkedin>
+            <github>https://github.com/carlosble</github>
+            <blog></blog>
+        </speaker>                  
+        <speaker>
+            <name>Aitor Chicharro</name>
+            <title>Full-stack Developer at Gaming Experience</title>
+            <bio>I am dedicated to the programming of highly scalable advanced web applications. I am currently focused on SPA applications with React.JS, using Redux, Observables (RxJS), Webpack, etc. and I control JavaScript extensively using Babel with EcmaScript 2016 (ES7). I also lay out web applications using PostCSS with CSSNext and CSS Modules with React.JS. I have experience with native mobile applications with React Native and handle modern APIs such as GraphQL on both the server and client side using Apollo as a base. And finally, I'm good working as DevOps.</bio>
+            <photo>https://jsday.blob.core.windows.net/images/aitor-chicharro.png</photo>
+            <twitter>https://twitter.com/krailler</twitter>
+            <linkedin>https://www.linkedin.com/in/aitorchicharro/</linkedin>
+            <github>https://github.com/krailler</github>
+            <blog></blog>
+        </speaker>   
+        <speaker>
+            <name>Azahara Fernández</name>
+            <title>Software developer at Sngular</title>
+            <bio>After getting my PhD. on Immunology in 2013, I decided that Science was not my future and I became a programmer obtaining a Cross-platform Applications Development professional training degree. Then, I started working on .Net in 2015 and I liked it so much that I became certified as MCSA: Microsoft Certified Software Applications Developer. In my spare time I love to program especially in Javascript and its frameworks, attend events, participate in the community (in Asturias there are very cool things) and I try to give talks or workshops to children to start them in programming.</bio>
+            <photo>https://jsday.blob.core.windows.net/images/azahara-fernandez.png</photo>
+            <twitter>https://twitter.com/azahara_fergui</twitter>
+            <linkedin>https://www.linkedin.com/in/azahara-fernandez-guizan-41713033/</linkedin>
+            <github>https://github.com/azaharafernandezguizan</github>
+            <blog></blog>
+        </speaker>  
+        <speaker>
+            <name>Adrián Ferrera</name>
+            <title>Full-stack Developer at Lean Mind</title>
+            <bio>Passionate about knowledge, I love learning new technologies and designing architectures that help to obtain the best possible performance. JavaScript lover</bio>
+            <photo>https://jsday.blob.core.windows.net/images/adrian-ferrera.png</photo>
+            <twitter>https://twitter.com/AdrianFerrera91</twitter>
+            <linkedin>https://www.linkedin.com/in/adri%C3%A1n-ferrera-gonz%C3%A1lez-347b5755/</linkedin>
+            <github>https://github.com/adrian-afergon</github>
+            <blog></blog>
+        </speaker>   
+        <speaker>
+            <name>Marta Fonda</name>
+            <title>Front-End engineer and Product Owner at Joinedapp</title>
+            <bio>After the university I studied a web development bootcamp at Ironhack and became front-end engineer at Floqq. Almost two years later I went to California in order to launch my own startup. I worked as CPO at Billin until last year when I became Front-end engineer and Product Owner at Joinedapp a US based startup. I am the ReactJSMadrid organizer.</bio>
+            <photo>https://jsday.blob.core.windows.net/images/marta-fonda.png</photo>
+            <twitter>https://twitter.com/martafonda</twitter>
+            <linkedin>https://www.linkedin.com/in/martafonda/</linkedin>
+            <github>https://github.com/martafonda</github>
+            <blog></blog>
+        </speaker>  
+        <speaker>
+            <name>Gonzalo García</name>
+            <title>Cybersecurity Analyst at Open Data Security</title>
+            <bio>I started a year and a half ago to devote myself professionally to computer security from the offensive point of view. I am interested in the analysis and exploitation of web vulnerabilities in modern systems and in the analysis of vulnerabilities in embedded systems (routers, ip cameras ...). I qualified in third place in the Cybercamp CTF 2017 and I am among the classifieds to compete with the Spanish team in the European Cybersecurity Challenge 2018 in London (even in the qualifying phase).</bio>
+            <photo>https://jsday.blob.core.windows.net/images/marta-fonda.png</photo>
+            <twitter>https://twitter.com/_dreadlocked</twitter>
+            <linkedin>https://www.linkedin.com/in/gongl556</linkedin>
+            <github>https://www.github.com/dreadlocked/</github>
+            <blog></blog>
+        </speaker>    
+        <speaker>
+            <name>Sema García</name>
+            <title>JavaScript Architect, GFT</title>
+            <bio>JavaScript architect and clean coder, hobby pianist. Cordovan. I love things well done. There is always something new to be able to learn</bio>
+            <photo>https://jsday.blob.core.windows.net/images/sema-garcia.png</photo>
+            <twitter>https://twitter.com/semagarcia</twitter>
+            <linkedin>https://www.linkedin.com/in/josemanuelgarciagarcia/</linkedin>
+            <github>https://github.com/semagarcia</github>
+            <blog></blog>
+        </speaker>  
+        <speaker>
+            <name>Juan Gómez</name>
+            <title>Front-end Developer at Expero Inc.</title>
+            <bio>Developer for 10 years, I started programming desktop applications with the Pascal / Delphi / Oracle stack but soon I switched to web development (PHP / jQuery) and mobile applications (iOS / ObjectiveC). In recent years I have worked for an international security company as a full-stack (CodeIgniter, Laravel, Angular, Bootstrap). I currently work as a front-end developer (Vue, React, Angular) for Expero Inc.</bio>
+            <photo>https://jsday.blob.core.windows.net/images/juan-gomez.png</photo>
+            <twitter>https://twitter.com/supercepi</twitter>
+            <linkedin>https://www.linkedin.com/in/gomezcabo/</linkedin>
+            <github>https://github.com/gomezcabo</github>
+            <blog></blog>
+        </speaker>  
+        <speaker>
+            <name>Nuria Gonzalo</name>
+            <title>Software developer at AvanTIC</title>
+            <bio>Computer Science Engineer a bit by chance. Fan of agile methodologies, clean code, software and dog analysis. I am currently working as a software developer at AvanTIC.</bio>
+            <photo>https://jsday.blob.core.windows.net/images/nuria-gonzalo.png</photo>
+            <twitter></twitter>
+            <linkedin>https://www.linkedin.com/in/nuriagon/</linkedin>
+            <github>https://github.com/NuniGon/</github>
+            <blog></blog>
+        </speaker>  
+        <speaker>
+            <name>Axel Hernández</name>
+            <title>Developer at IBM Research</title>
+            <bio>Fullstack developer. Defender of typescript. Typescript is the best thing that has happened to javascript since async / await.</bio>
+            <photo>https://jsday.blob.core.windows.net/images/axel-hernandez.png</photo>
+            <twitter>https://twitter.com/axelhzf</twitter>
+            <linkedin>https://www.linkedin.com/in/axelhzf</linkedin>
+            <github>https://github.com/axelhzf</github>
+            <blog>http://axelhzf.com/</blog>
+        </speaker>                                                                            
+        <speaker>
+            <name>Sara Hernández</name>
+            <title>Full-stack web developer at Atos</title>
+            <bio>Lover of videogames and anime since childhood, I started designing my own websites for entertainment to finally discover web development as one of my great passions and to which I want to focus my professional career.</bio>
+            <photo>https://jsday.blob.core.windows.net/images/sara-hernandez.png</photo>
+            <twitter></twitter>
+            <linkedin>https://www.linkedin.com/in/sara-hern%C3%A1ndez-su%C3%A1rez-167013115/</linkedin>
+            <github>https://github.com/LonelyPrincess</github>
+            <blog></blog>
+        </speaker>                       
+        <speaker>
+            <name>Joan León</name>
+            <title>Developer Advocate at Schibsted Spain</title>
+            <bio>I'm still a CSS, SVG & Animation Lover, I'm passionate about everything related to the development and interaction in the user interface in web environments. I try to stay up to date on everything related to HTML5, CSS, SVG and Javascript. Another of my passions is to collaborate in Open Source projects. I love sharing knowledge, whether in Meetups, Conferences, Workshops or as a teacher in IT School.</bio>
+            <photo>https://jsday.blob.core.windows.net/images/joan-leon.png</photo>
+            <twitter>https://twitter.com/nucliweb</twitter>
+            <linkedin>https://www.linkedin.com/in/joanleon/</linkedin>
+            <github>https://github.com/nucliweb</github>
+            <blog>http://nucliweb.net/</blog>
+        </speaker>
+        <speaker>
+            <name>Yodra López</name>
+            <title>Full-stack developer at Lean Mind</title>
+            <bio>CS Engineer on System Administration. I'm currently working as fullstack developer at LeanMind. In addition, I'm teacher at a youth entrepreneurship program focused on Fullstack Web Development at EOI (Industrial Management School). On my professional live I've been working on different technological project in order to up-to-date the Government of the Canary Islands systems.</bio>
+            <photo>https://jsday.blob.core.windows.net/images/yodra-lopez.png</photo>
+            <twitter>https://twitter.com/yodralopez</twitter>
+            <linkedin>https://www.linkedin.com/in/yodralopez/</linkedin>
+            <github>https://github.com/yodra</github>
+            <blog></blog>
+        </speaker>  
+        <speaker>
+            <name>Lissette Luis</name>
+            <title>Full-stack Developer at Ultebra Solutions</title>
+            <bio>Web developer and IT lover always in continuos learning. I pay special attention to code quality, good practices and design patterns. Currently I'm working as front-end developer with VueJS and Typescript, an awesome mix, at least for me, and using ASP.NET Core as back-end.</bio>
+            <photo>https://jsday.blob.core.windows.net/images/lissette-luis.png</photo>
+            <twitter>https://twitter.com/LissetteIbnz</twitter>
+            <linkedin>https://www.linkedin.com/in/saralissette/</linkedin>
+            <github>https://github.com/LissetteIbnz</github>
+            <blog></blog>
+        </speaker>  
+        <speaker>
+            <name>José Manuel Lucas</name>
+            <title>Senior Front-end developer at Sewan</title>
+            <bio>I like to break and fix things. I try to reduce the gap between designers and developers, but both hate me. I specialize in React, Styled Components and Storybook, but I also work with technologies such as RxJS, Redux, etc.</bio>
+            <photo>https://jsday.blob.core.windows.net/images/jose-manuel-lucas.png</photo>
+            <twitter>https://twitter.com/jmlweb</twitter>
+            <linkedin>https://www.linkedin.com/in/josemanuellucas/</linkedin>
+            <github>https://github.com/jmlweb</github>
+            <blog>https://jmlweb.es/</blog>
+        </speaker>   
+        <speaker>
+            <name>Ayoze Marcelino</name>
+            <title>DevOps Engineer en Hometeam</title>
+            <bio>Front-end developer and responsible for cloud services and systems in Gaming Experience. Responsible for Streaming in TLP until 2015.</bio>
+            <photo>https://jsday.blob.core.windows.net/images/ayoze-marcelino.png</photo>
+            <twitter></twitter>
+            <linkedin>https://linkedin.com/in/ayozemr/</linkedin>
+            <github>http://hystericalmusic.com/</github>
+            <blog></blog>
+        </speaker>   
+        <speaker>
+            <name>Raúl Marrero</name>
+            <title>Team Leader at System73</title>
+            <bio>Currently leader of the Backend team in System73, although using React in spare time and personal projects. I have been a member of Innova7, where I contributed to different internal software projects. I started working with React in TGX since the company started its career in 2015. After that, I moved to New York where I worked for almost 2 years in a digital marketing agency as fullstack engineer (React and Angular in the FrontEnd)</bio>
+            <photo>https://jsday.blob.core.windows.net/images/raul-marrero.png</photo>
+            <twitter>https://twitter.com/RuloARC</twitter>
+            <linkedin>https://linkedin.com/in/raulmarrero</linkedin>
+            <github>https://github.com/Rulox</github>
+            <blog></blog>
+        </speaker>    
+        <speaker>
+            <name>Raquel Moreno</name>
+            <title>Software craftsperson at Codurance</title>
+            <bio>Female references in our sector? For me, the best reference: mi mother. I grew up asking "what's that?" every time I open her recipies book and I found a computer punched card since she coded COBOL at 70's. I think that she must interviewed because we'll discover how have we technologicaly evolutionated, but at organizational level we keep equal ;) She detected my curiosity and she enrolled me at computer science classes at 12 years old in the back of a printers shop. I had there my first contact with computer components, MSDOS commands and databases. Summarizing, she was the reason why I choosed this profession.</bio>
+            <photo>https://jsday.blob.core.windows.net/images/raquel-moreno.png</photo>
+            <twitter>https://twitter.com/bberrycarmen</twitter>
+            <linkedin>https://www.linkedin.com/in/raquelmorenocar/</linkedin>
+            <github>https://github.com/rachelcarmena</github>
+            <blog></blog>
+        </speaker>  
+        <speaker>
+            <name>Laura Morillo</name>
+            <title>SSP Tech Lead at Seedtag</title>
+            <bio>I feel passion about different technologies mainly focused on backend development. Since 2007 I have been working with many different technologies (C, C++, Groovy, Java, Ruby, Javascript...) always following good development practices. On my spare time I cooperate with development communities such as GDG Madrid, AgileGirls and Tech&Ladies. This year I received the Google Developer Expert in Cloud certificate recognition based on my knowledge on Google Cloud and my efforts in order to promote its tools.</bio>
+            <photo>https://jsday.blob.core.windows.net/images/laura-morillo.png</photo>
+            <twitter>https://twitter.com/laura_morillo</twitter>
+            <linkedin>https://www.linkedin.com/in/lauramorillovelarderodriguez/</linkedin>
+            <github>https://github.com/lauramorillo</github>
+            <blog></blog>
+        </speaker>
+        <speaker>
+            <name>Manuel Padrón</name>
+            <title>Sysadmin at day, developer at night</title>
+            <bio>Passionate about computer science with more than 10 years of experience in the sector. I have worked with very different technologies ranging from sim card programming, system administration through graphic programming and interaction with MIDI instruments.</bio>
+            <photo>https://jsday.blob.core.windows.net/images/manuel-padron.png</photo>
+            <twitter>https://twitter.com/manolopm</twitter>
+            <linkedin>https://www.linkedin.com/in/manolopm/</linkedin>
+            <github>https://github.com/manolopm</github>
+            <blog>https://www.graph-ic.org/</blog>
+        </speaker>                                         
+        <speaker>
+            <name>Steve Purves</name>
+            <title>Senior software consultant at Euclidity, S.L.</title>
+            <bio>Experienced software product developer and technical leader. I have a mix of expertise spanning executive management, business development, software development and applied research. I have defined and implemented technology strategy and have both developed and led development of a number of innovative commercial technologies (patents both granted and pending). I enjoy identifying problems and creating solutions; technical, market or business. I enjoy working openly with teams of others to do the same. I am now an independent contractor, working remotely from a base in Europe, travelling to client site as and when needed.</bio>
+            <photo>https://jsday.blob.core.windows.net/images/steve-purves.png</photo>
+            <twitter>https://twitter.com/stevejpurves</twitter>
+            <linkedin>https://www.linkedin.com/in/stevejpurves/</linkedin>
+            <github>https://github.com/stevejpurves</github>
+            <blog></blog>
+        </speaker>                       
+        <speaker>
+            <name>Daniel Ramos</name>
+            <title>Full-stack developer at Lean Mind</title>
+            <bio>Computer Science engineer. I love Javascript as well as the environment generated around it. I enjoy learning new technologies that appear every day. I'm focused on React, Redux, RxJS and Node. Currently I'm starting on the Open Source world step by step.</bio>
+            <photo>https://jsday.blob.core.windows.net/images/daniel-ramos.png</photo>
+            <twitter>https://twitter.com/DanielRamosAcos</twitter>
+            <linkedin>https://www.linkedin.com/in/danielramosacosta/</linkedin>
+            <github>https://github.com/DanielRamosAcosta</github>
+            <blog>https://danielramosacosta.github.io/</blog>
+        </speaker>
+        <speaker>
+            <name>Angélica Ravelo</name>
+            <title>Web developer</title>
+            <bio></bio>
+            <photo>https://jsday.blob.core.windows.net/images/angelica-ravelo.png</photo>
+            <twitter></twitter>
+            <linkedin>https://www.linkedin.com/in/ang%C3%A9lica-ravelo-delgado-832b3a163/</linkedin>
+            <github></github>
+            <blog></blog>
+        </speaker>  
+        <speaker>
+            <name>David Rodríguez</name>
+            <title>CTO at Intelequia Software Solutions</title>
+            <bio>Microsoft Regional Director and Azure MVP. I currently work at Intelequia, company that I co-founded 7 years ago, designing cloud patterns based architectures on and helping to our customers on their transitions. I am also co-founded the TenerifeDev user group and several open source projects in DNN Platorm, where I has been for the last 5 years. Oh, and platinum in Overwatch :)</bio>
+            <photo>https://jsday.blob.core.windows.net/images/david-rodriguez.png</photo>
+            <twitter>https://twitter.com/davidjrh</twitter>
+            <linkedin>https://www.linkedin.com/in/davidjrh/</linkedin>
+            <github>https://github.com/davidjrh</github>
+            <blog>http://davidjrh.intelequia.com/</blog>
+        </speaker>  
+        <speaker>
+            <name>Alberto Ruiz</name>
+            <title>Independent developer (Open Source)</title>
+            <bio>Front End developer and former Blokchain consultant en PwC Madrid.</bio>
+            <photo>https://jsday.blob.core.windows.net/images/alberto-ruiz.png</photo>
+            <twitter>https://twitter.com/alber_erre</twitter>
+            <linkedin>https://linkedin.com/in/alberrdelugo</linkedin>
+            <github>https://github.com/AlberErre</github>
+            <blog>https://albererre.com/</blog>
+        </speaker>  
+        <speaker>
+            <name>Jon Rojí</name>
+            <title>Front-end architect</title>
+            <bio>Front-end Team Leader, I share my passion for web architectures, promoting strict love stories between developers and code. Defender of the standard, critical with the code of the previous day, currently focused on getting the most out of Polymer and Angular 2.</bio>
+            <photo>https://jsday.blob.core.windows.net/images/jon-roji.png</photo>
+            <twitter>https://twitter.com/jnroji</twitter>
+            <linkedin>https://www.linkedin.com/in/jonroji/</linkedin>
+            <github>https://github.com/jroji</github>
+            <blog></blog>
+        </speaker>    
+        <speaker>
+            <name>Jose Román (Manz)</name>
+            <title>Emezeta.com author. Trainer, Mentor and Evangelist</title>
+            <bio>I am the author of Emezeta.com, a technology blog with more than 10,000 unique visits per day. One of my passions is teaching and dissemination. Currently, I work as a professor in the Free Software Office of the University of La Laguna, together with the General Foundation of the University of La Laguna, where I teach subjects related to web design and web development.</bio>
+            <photo>https://jsday.blob.core.windows.net/images/manz.png</photo>
+            <twitter>https://twitter.com/manz</twitter>
+            <linkedin>https://www.linkedin.com/in/joseromanhdez</linkedin>
+            <github>https://github.com/ManzDev</github>
+            <blog>https://www.emezeta.com/</blog>
+        </speaker>    
+        <speaker>
+            <name>Ulises Santana</name>
+            <title>Full-stack Javascript Developer at Kentech</title>
+            <bio>For the past 2 years I have been focused on technologies derived from the explosion of JavaScript with ES2015. On the other hand, I come from rebound of the digital marketing world and there are those who call me technological promiscuous.</bio>
+            <photo>https://jsday.blob.core.windows.net/images/ulises-santana.png</photo>
+            <twitter>https://twitter.com/ulisesantana</twitter>
+            <linkedin>https://linkedin.com/in/ulisesantana</linkedin>
+            <github>https://github.com/ulisesantana</github>
+            <blog></blog>
+        </speaker>
+        <speaker>
+            <name>Francisco Verdú (Kikobeats)</name>
+            <title>Product Engineer at IBM Research</title>
+            <bio>A millennial doing stuff on internet that ships software every day and builds digital products.</bio>
+            <photo>https://jsday.blob.core.windows.net/images/kikobeats.png</photo>
+            <twitter>https://twitter.com/kikobeats</twitter>
+            <linkedin>https://www.linkedin.com/in/kikobeats</linkedin>
+            <github>https://github.com/Kikobeats</github>
+            <blog>https://kikobeats.com/</blog>
+        </speaker>
+        <speaker>
+            <name>Iván Bacallado</name>
+            <title>Front-end & mobile developer at Blue Sky Technology</title>
+            <bio>I’m an enthusiast about Javascript and all it’s ecosystem. I'm a fan of Facebook ecosystem (React, React Native, GraphQl...). I like to use good practices, linters and formatters because I think is very important to keep the projects clean and divide into small elements that resolves just one problem.</bio>
+            <photo>https://jsday.blob.core.windows.net/images/ivan-bacallado.png</photo>
+            <twitter>https://twitter.com/ivanbtrujillo</twitter>
+            <linkedin>https://www.linkedin.com/in/ivanbtrujillo/</linkedin>
+            <github>https://github.com/ivanbtrujillo</github>
+            <blog>https://ivanbtrujillo.github.io/personal-website</blog>
+        </speaker>
+        <speaker>
+            <name>Dailos Díaz</name>
+            <title>Full-stack developer at Omnia Infosys</title>
+            <bio>I have an experience of more than five years in the computer sector where I have worked as a programmer, analyst and team coordinator. In addition to this, I previously worked for more than five years in the industrial engineering sector, designing, planning, executing and coordinating technical projects.</bio>
+            <photo>https://jsday.blob.core.windows.net/images/dailos-diaz.png</photo>
+            <twitter>https://twitter.com/ddialar</twitter>
+            <linkedin>https://linkedin.com/in/ddialar</linkedin>
+            <github>https://github.com/ddialar</github>
+            <blog></blog>
+        </speaker>                                                  
+    </speakers>    
+</conference>    
