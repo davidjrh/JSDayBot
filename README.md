@@ -1,4 +1,4 @@
-# jsDay
+# JSDay Canarias 2018 Bot
 Demonstrate the core capabilties of the Microsoft Bot Framework
 
 This bot has been created using [Microsoft Bot Framework][1], based on the [eduiConf bot](https://github.com/szul/conf-edui2018-bot) built by [szul](https://github.com/szul)
