@@ -3,13 +3,14 @@ Demonstrate the core capabilties of the Microsoft Bot Framework
 
 This bot has been created using [Microsoft Bot Framework][1], based on the [eduiConf bot](https://github.com/szul/conf-edui2018-bot) built by [szul](https://github.com/szul)
 
-This samples shows how to:
+This sample shows how to:
 - Use [LUIS][2] to implement core AI capabilities
-- Implement a multi-turn conversation using Dialogs
+- Use [QnA Maker][12] to implement core AI capabilities
 - Handle user interruptions for such things as Help or Cancel
 - Prompt for and validate requests for information from the user
 - Demonstrate how to handle any unexptected errors
-
+- Use [Application Insights][18] service for telemetry
+- Use [Chatbase][17] service for telemetry
 
 ## To run this bot
 - In a terminal,
@@ -102,3 +103,4 @@ tsc &amp;&amp; node ./lib/index.js
 [15]: https://github.com/microsoft/botbuilder-tools
 [16]: https://github.com/microsoft/botframework-emulator
 [17]: https://chatbase.com
+[18]: https://docs.microsoft.com/en-us/azure/application-insights/app-insights-overview
